@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: whitesmoke;
+    color: #333333;
+}
+
+header {
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: darkblue;
+}
+
+
+.content-section {
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+
+img {
+    width: 250px;
+    height: auto;
+    border: 2px solid lightgray;
+
+}
+
+#about-me {
+    background-color: lightgray;
+}
+
+
+nav a {
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
