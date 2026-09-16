@@ -33,6 +33,9 @@ a {
     color: darkblue;
 }
 
+#websites a {
+    color: red;
+}
 
 .content-section {
     padding: 20px 15px;
